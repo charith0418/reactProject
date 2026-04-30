@@ -2,7 +2,7 @@ this.a = 11;
 this.b =22;
 const obj = {
     a : 10,
-    b :20,
+    b :50,
     normalfunction : function(a,b){
         console.log(this.a+this.b);
     },

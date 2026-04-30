@@ -9,7 +9,7 @@ function sum(a,b,c){
     console.log(a+b+c);
 }
 
-const arr4 = [1,2,3];
+const arr4 = [1,2,5];
 const obj = {one:5,two:10,three:15};
 
 sum(...arr4);

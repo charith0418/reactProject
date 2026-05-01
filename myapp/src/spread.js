@@ -22,3 +22,11 @@ for(let i=0;i<arr5.length;i++){
     sum1 = sum1 + arr5[i];
 }
 console.log(sum1);
+
+
+const arr6 =[1,2,3,4,5];
+
+let a = arr6[0];
+let b = arr6[2];
+
+console.log(a,b);

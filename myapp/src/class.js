@@ -8,5 +8,5 @@
     }
  }
     const rect  = new rectangle(4,6,'red');
- 
+  
  console.log(rect.getArea());
